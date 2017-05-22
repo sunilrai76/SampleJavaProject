@@ -4,9 +4,11 @@ import org.junit.Test;
 
 public class SampleDomainTest {
 
+	private SampleDomain test;
+
 	@Test
 	public void getDomainNae() {
-		SampleDomain test = new SampleDomain();
+		test = new SampleDomain();
 		test.getDomainNae();
 	}
 
