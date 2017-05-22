@@ -4,6 +4,5 @@ public class SampleDomain {
 
 	public void getDomainNae(){
 		System.out.println("Welcome to javat");
-		System.out.println("Welcome to javat");
 	}
 }
